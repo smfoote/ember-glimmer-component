@@ -25,6 +25,9 @@ export default class {
     if (typeof component.didRender === 'function') {
       component.didRender();
     }
+    if (typeof component.didInsertElement === 'function') {
+      component.didInsertElement();
+    }
   }
 
   getContext(component) {

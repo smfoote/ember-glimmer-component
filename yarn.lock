@@ -2200,9 +2200,9 @@ ember-router-generator@^1.0.0, ember-router-generator@^1.2.3:
   dependencies:
     recast "^0.11.3"
 
-"ember-source@https://s3.amazonaws.com/builds.emberjs.com/canary/shas/a28755d4f0d6f81999b544a59fa83e88601928eb.tgz":
+"ember-source@https://s3.amazonaws.com/builds.emberjs.com/canary/shas/76dc4deb70cd1e5ae7d83374161925af50946a01.tgz":
   version "3.2.0-canary"
-  resolved "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/a28755d4f0d6f81999b544a59fa83e88601928eb.tgz#62f2e594c023c94310d98d5f23b5dc33180645da"
+  resolved "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/76dc4deb70cd1e5ae7d83374161925af50946a01.tgz#41d67cc67c543ae4551c0e4be5b177da1d3c73a2"
   dependencies:
     broccoli-funnel "^2.0.1"
     broccoli-merge-trees "^2.0.0"

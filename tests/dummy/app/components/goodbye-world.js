@@ -10,6 +10,10 @@ export default GlimmerComponentCompat.extend({
   didUpdate() {
     console.log('goodbye world updated');
   },
+
+  didInsertElement() {
+    console.log('goodbye-world elements have been inserted');
+  },
   actions: {
     switch() {
       this.set('forwards', !this.forwards);
