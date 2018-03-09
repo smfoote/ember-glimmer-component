@@ -37,7 +37,7 @@
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
-    "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/a28755d4f0d6f81999b544a59fa83e88601928eb.tgz",
+    "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/76dc4deb70cd1e5ae7d83374161925af50946a01.tgz",
     "loader.js": "^4.2.3"
   },
   "engines": {
