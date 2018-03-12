@@ -1,5 +1,5 @@
 import { computed } from '@ember/object';
-import GlimmerComponentCompat from 'ember-future/components/glimmer-component-compat';
+import GlimmerComponentCompat from 'ember-glimmer-component/components/glimmer-component-compat';
 
 export default GlimmerComponentCompat.extend({
   forwards: true,

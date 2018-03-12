@@ -1,5 +1,5 @@
 import { set } from '@ember/object';
-import GlimmerComponent from 'ember-future/components/glimmer-component';
+import GlimmerComponent from 'ember-glimmer-component/components/glimmer-component';
 
 export default class HelloWorld extends GlimmerComponent {
   constructor(options) {

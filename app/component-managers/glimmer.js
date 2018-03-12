@@ -1,1 +1,1 @@
-export { default } from 'ember-future/component-managers/glimmer';
+export { default } from 'ember-glimmer-component/component-managers/glimmer';

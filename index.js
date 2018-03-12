@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-future'
+  name: 'ember-glimmer-component'
 };
