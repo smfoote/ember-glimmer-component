@@ -6,12 +6,12 @@
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Steven Foote <smfoote@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/smfoote/ember-glimmer-component",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
